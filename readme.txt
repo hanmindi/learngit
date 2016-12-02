@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 Git merge with no fast forward.
 Working on the dev branch and a bug issue is coming...
 I am the partner of E:
+I am the partner of C:
